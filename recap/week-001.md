@@ -1,5 +1,5 @@
 # Week 001 Recap — Orientation & Setup
-
+ 
 ## Overview
 
 Week 1 focused on setting up the core tools and foundational knowledge required for the **AI Cloud Infrastructure Engineer journey**.
