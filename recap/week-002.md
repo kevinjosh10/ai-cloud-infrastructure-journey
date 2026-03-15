@@ -1,5 +1,5 @@
 # Week 002 Recap — Linux Fundamentals I
-
+ 
 ## Overview
 
 Week 2 focused on learning the **Linux command line and filesystem fundamentals**.  
