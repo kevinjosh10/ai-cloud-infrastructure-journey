@@ -1,4 +1,4 @@
-# Linux Fundamentals Cheat Sheet (Week 2)
+# Linux Fundamentals Cheat Sheet (Week 2) 
 
 A comprehensive cheat sheet covering Linux fundamentals learned during Week 2 of the **1000 Day AI Cloud Infrastructure Engineer Journey**.
 
