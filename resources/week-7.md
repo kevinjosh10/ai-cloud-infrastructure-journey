@@ -1,4 +1,4 @@
-# Week 7 – Resources (Python for Cloud Engineering)
+# Week 7 – Resources (Python for Cloud Engineering) 
 
 **Duration:** Day 43 – Day 49  
 **Focus:** Python Fundamentals, Data Structures, File Handling & JSON for Cloud  
