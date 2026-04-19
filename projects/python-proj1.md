@@ -1,4 +1,4 @@
-# Week 7 – Python Projects (Cloud-Focused)
+# Week 7 – Python Projects (Cloud-Focused) 
 
 **Duration:** Day 43 – Day 49  
 **Focus:** Hands-on Python Projects for Automation, Data Processing & Cloud Engineering  
